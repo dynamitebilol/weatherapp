@@ -1,0 +1,2 @@
+weather_token = 'b317b2aabc3965e1114ea862f37616f7'
+Bot_token = '2105493783:AAEF1CLo_Sv0BCrRL9iJFgTgIZDPG7WKSrY'
