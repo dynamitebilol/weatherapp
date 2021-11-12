@@ -1,4 +1,4 @@
 aiogram~=2.16
-gunicorn===<latest-version>
+gunicorn==20.1.0
 requests
 datetime
