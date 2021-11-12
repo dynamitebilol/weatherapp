@@ -1,2 +1,2 @@
 worker: python tg_bot.py
-web: gunicorn
+web: gunicorn app:app
